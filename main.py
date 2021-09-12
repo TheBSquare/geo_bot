@@ -2,7 +2,7 @@ import telebot
 import csv
 import random
 
-bot = telebot.TeleBot(token="1942864839:AAHmFKZQ7011O_IaC1IsqSxzvsKsPVB6IxI")
+bot = telebot.TeleBot(token="1919292713:AAFPDm-4XeyPN3uiuZNnbcWZ_V6ouXhx6kE")
 users = {}
 
 with open("countries.csv", "r", encoding="utf-8", newline="") as f:
