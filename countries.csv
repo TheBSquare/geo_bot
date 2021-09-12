@@ -1,0 +1,157 @@
+iso_alpha2;iso_alpha3;iso_numeric;fips;continent;area;population;country_en;capital_en;country_uk;capital_uk
+ZA;ZAF;710;SF;AF;1,219,912.0;57,779,622;South Africa;Pretoria;Південна Африка;Преторія
+YE;YEM;887;YM;AS;527,970.0;28,498,687;Yemen;Sanaa;Ємен;Сана
+XK;XKX;0;KV;EU;10,908.0;1,845,300;Kosovo;Pristina;Косово;Приштина
+VN;VNM;704;VM;AS;329,560.0;95,540,395;Vietnam;Hanoi;В'єтнам;Ханой
+VE;VEN;862;VE;SA;912,050.0;28,870,195;Venezuela;Caracas;Венесуела;Каракас
+VA;VAT;336;VT;EU;0.4;921;Vatican City;Vatican City;Ватикан;Ватикан
+UZ;UZB;860;UZ;AS;447,400.0;32,955,400;Uzbekistan;Tashkent;Узбекистан;Ташкент
+UY;URY;858;UY;SA;176,220.0;3,449,299;Uruguay;Montevideo;Уругвай;Монтевідео
+US;USA;840;US;NA;9,629,091.0;327,167,434;United States;Washington;Сполучені Штати;Вашингтон
+UA;UKR;804;UP;EU;603,700.0;44,622,516;Ukraine;Kyiv;Україна;Київ
+TW;TWN;158;TW;AS;35,980.0;22,894,384;Taiwan;Taipei;Тайвань;Тайбей
+TT;TTO;780;TD;NA;5,128.0;1,389,858;Trinidad and Tobago;Port of Spain;Тринідад і Тобаго;Порт Іспанії
+TR;TUR;792;TU;AS;780,580.0;82,319,724;Turkey;Ankara;Туреччина;Анкара
+TN;TUN;788;TS;AF;163,610.0;11,565,204;Tunisia;Tunis;Туніс;Туніс
+TM;TKM;795;TX;AS;488,100.0;5,850,908;Turkmenistan;Ashgabat;Туркменістан;Ашхабад
+TJ;TJK;762;TI;AS;143,100.0;9,100,837;Tajikistan;Dushanbe;Таджикистан;Душанбе
+TH;THA;764;TH;AS;514,000.0;69,428,524;Thailand;Bangkok;Таїланд;Бангкок
+TC;TCA;796;TK;NA;430.0;37,665;Turks and Caicos Islands;Cockburn Town;Острови Теркс і Кайкос;Кокберн -Таун
+SY;SYR;760;SY;AS;185,180.0;16,906,283;Syria;Damascus;Сирія;Дамаск
+SX;SXM;534;NN;NA;21.0;40,654;Sint Maarten;Philipsburg;Сент -Мартен;Філіпсбург
+SV;SLV;222;ES;NA;21,040.0;6,420,744;El Salvador;San Salvador;Сальвадор;Сан -Сальвадор
+SR;SUR;740;NS;SA;163,270.0;575,991;Suriname;Paramaribo;Сурінам;Парамарібо
+SM;SMR;674;SM;EU;61.2;33,785;San Marino;San Marino;Сан -Марино;Сан -Марино
+SK;SVK;703;LO;EU;48,845.0;5,447,011;Slovakia;Bratislava;Словаччина;Братислава
+SJ;SJM;744;SV;EU;62,049.0;2,550;Svalbard and Jan Mayen;Longyearbyen;Шпіцберген і Ян Майєн;Лонгйір
+SI;SVN;705;SI;EU;20,273.0;2,067,372;Slovenia;Ljubljana;Словенія;Любляна
+SG;SGP;702;SN;AS;692.7;5,638,676;Singapore;Singapore;Сінгапур;Сінгапур
+SE;SWE;752;SW;EU;449,964.0;10,183,175;Sweden;Stockholm;Швеція;Стокгольм
+SA;SAU;682;SA;AS;1,960,582.0;33,699,947;Saudi Arabia;Riyadh;Саудівська Аравія;Ер -Ріяд
+RU;RUS;643;RS;EU;17,100,000.0;144,478,050;Russia;Moscow;Росія;Москва
+RS;SRB;688;RI;EU;88,361.0;6,982,084;Serbia;Belgrade;Сербія;Белград
+RO;ROU;642;RO;EU;237,500.0;19,473,936;Romania;Bucharest;Румунія;Бухарест
+QA;QAT;634;QA;AS;11,437.0;2,781,677;Qatar;Doha;Катар;Доха
+PY;PRY;600;PA;SA;406,750.0;6,956,071;Paraguay;Asuncion;Парагвай;Асунсьйон
+PT;PRT;620;PO;EU;92,391.0;10,281,762;Portugal;Lisbon;Португалія;Лісабон
+PS;PSE;275;WE;AS;5,970.0;4,569,087;Palestine;East Jerusalem;Палестина;Східний Єрусалим
+PR;PRI;630;RQ;NA;9,104.0;3,195,153;Puerto Rico;San Juan;Пуерто Ріко;Сан -Хуан
+PM;SPM;666;SB;NA;242.0;7,012;Saint Pierre and Miquelon;Saint-Pierre;Сент -П’єр і Мікелон;Сен-П'єр
+PL;POL;616;PL;EU;312,685.0;37,978,548;Poland;Warsaw;Польща;Варшава
+PK;PAK;586;PK;AS;803,940.0;212,215,030;Pakistan;Islamabad;Пакистан;Ісламабад
+PH;PHL;608;RP;AS;300,000.0;106,651,922;Philippines;Manila;Філіппіни;Маніла
+PE;PER;604;PE;SA;1,285,220.0;31,989,256;Peru;Lima;Перу;Ліма
+PA;PAN;591;PM;NA;78,200.0;4,176,873;Panama;Panama City;Панама;Панама -Сіті
+OM;OMN;512;MU;AS;212,460.0;4,829,483;Oman;Muscat;Оман;Мускат
+NP;NPL;524;NP;AS;140,800.0;28,087,871;Nepal;Kathmandu;Непал;Катманду
+NO;NOR;578;NO;EU;324,220.0;5,314,336;Norway;Oslo;Норвегія;Осло
+NL;NLD;528;NL;EU;41,526.0;17,231,017;Netherlands;Amsterdam;Нідерланди;Амстердам
+NI;NIC;558;NU;NA;129,494.0;6,465,513;Nicaragua;Managua;Нікарагуа;Манагуа
+MY;MYS;458;MY;AS;329,750.0;31,528,585;Malaysia;Kuala Lumpur;Малайзія;Куала-Лумпур
+MX;MEX;484;MX;NA;1,972,550.0;126,190,788;Mexico;Mexico City;Мексика;Мехіко
+MV;MDV;462;MV;AS;300.0;515,696;Maldives;Male;Мальдіви;Чоловічий
+MT;MLT;470;MT;EU;316.0;483,530;Malta;Valletta;Мальта;Валетта
+MO;MAC;446;MC;AS;254.0;631,636;Macao;Macao;Макао;Макао
+MN;MNG;496;MG;AS;1,565,000.0;3,170,208;Mongolia;Ulaanbaatar;Монголія;Улан -Батор
+MM;MMR;104;BM;AS;678,500.0;53,708,395;Myanmar;Nay Pyi Taw;М'янма;Най П’я Тау
+MK;MKD;807;MK;EU;25,333.0;2,082,958;North Macedonia;Skopje;Північна Македонія;Скоп'є
+MG;MDG;450;MA;AF;587,040.0;26,262,368;Madagascar;Antananarivo;Мадагаскар;Антананаріву
+ME;MNE;499;MJ;EU;14,026.0;622,345;Montenegro;Podgorica;Чорногорія;Подгориця
+MD;MDA;498;MD;EU;33,843.0;3,545,883;Moldova;Chisinau;Молдова;Кишинів
+MC;MCO;492;MN;EU;1.9;38,682;Monaco;Monaco;Монако;Монако
+MA;MAR;504;MO;AF;446,550.0;36,029,138;Morocco;Rabat;Марокко;Рабат
+LY;LBY;434;LY;AF;1,759,540.0;6,678,567;Libya;Tripoli;Лівія;Тріполі
+LV;LVA;428;LG;EU;64,589.0;1,926,542;Latvia;Riga;Латвія;Рига
+LU;LUX;442;LU;EU;2,586.0;607,728;Luxembourg;Luxembourg;Люксембург;Люксембург
+LT;LTU;440;LH;EU;65,200.0;2,789,533;Lithuania;Vilnius;Литва;Вільнюс
+LK;LKA;144;CE;AS;65,610.0;21,670,000;Sri Lanka;Colombo;Шрі Ланка;Коломбо
+LI;LIE;438;LS;EU;160.0;37,910;Liechtenstein;Vaduz;Ліхтенштейн;Вадуц
+LB;LBN;422;LE;AS;10,400.0;6,848,925;Lebanon;Beirut;Ліван;Бейрут
+LA;LAO;418;LA;AS;236,800.0;7,061,507;Laos;Vientiane;Лаос;В'єнтьян
+KZ;KAZ;398;KZ;AS;2,717,300.0;18,276,499;Kazakhstan;Nur-Sultan;Казахстан;Нур-Султан
+KY;CYM;136;CJ;NA;262.0;64,174;Cayman Islands;George Town;Кайманові острови;Джорджтаун
+KW;KWT;414;KU;AS;17,820.0;4,137,309;Kuwait;Kuwait City;Кувейт;Місто Кувейт
+KR;KOR;410;KS;AS;98,480.0;51,635,256;South Korea;Seoul;Південна Корея;Сеул
+KP;PRK;408;KN;AS;120,540.0;25,549,819;North Korea;Pyongyang;Північна Корея;Пхеньян
+KN;KNA;659;SC;NA;261.0;52,441;St Kitts and Nevis;Basseterre;Сент -Кітс і Невіс;Бастер
+KH;KHM;116;CB;AS;181,040.0;16,249,798;Cambodia;Phnom Penh;Камбоджа;Пномпень
+KG;KGZ;417;KG;AS;198,500.0;6,315,800;Kyrgyzstan;Bishkek;Киргизстан;Бішкек
+JP;JPN;392;JA;AS;377,835.0;126,529,100;Japan;Tokyo;Японія;Токіо
+JO;JOR;400;JO;AS;92,300.0;9,956,011;Jordan;Amman;Йорданія;Амман
+JM;JAM;388;JM;NA;10,991.0;2,934,855;Jamaica;Kingston;Ямайка;Кінгстон
+JE;JEY;832;JE;EU;116.0;90,812;Jersey;Saint Helier;Джерсі;Сент -Геліє
+IT;ITA;380;IT;EU;301,230.0;60,431,283;Italy;Rome;Італія;Рим
+IS;ISL;352;IC;EU;103,000.0;353,574;Iceland;Reykjavik;Ісландія;Рейк'явік
+IR;IRN;364;IR;AS;1,648,000.0;81,800,269;Iran;Tehran;Іран;Тегеран
+IQ;IRQ;368;IZ;AS;437,072.0;38,433,600;Iraq;Baghdad;Ірак;Багдад
+IO;IOT;086;IO;AS;60.0;4,000;British Indian Ocean Territory;Diego Garcia;Британська територія в Індійському океані;Дієго Гарсія
+IN;IND;356;IN;AS;3,287,590.0;1,352,617,328;India;New Delhi;Індія;Нью-Делі
+IM;IMN;833;IM;EU;572.0;84,077;Isle of Man;Douglas;Острів Мен;Дуглас
+IL;ISR;376;IS;AS;20,770.0;8,883,800;Israel;Jerusalem;Ізраїль;Єрусалим
+IE;IRL;372;EI;EU;70,280.0;4,853,506;Ireland;Dublin;Ірландія;Дублін
+ID;IDN;360;ID;AS;1,919,440.0;267,663,435;Indonesia;Jakarta;Індонезія;Джакарта
+HU;HUN;348;HU;EU;93,030.0;9,768,785;Hungary;Budapest;Угорщина;Будапешт
+HT;HTI;332;HA;NA;27,750.0;11,123,176;Haiti;Port-au-Prince;Гаїті;Порт-о-Пренс
+HR;HRV;191;HR;EU;56,542.0;4,089,400;Croatia;Zagreb;Хорватія;Загреб
+HN;HND;340;HO;NA;112,090.0;9,587,522;Honduras;Tegucigalpa;Гондурас;Тегусігальпа
+HK;HKG;344;HK;AS;1,092.0;7,451,000;Hong Kong;Hong Kong;Гонконг;Гонконг
+GY;GUY;328;GY;SA;214,970.0;779,004;Guyana;Georgetown;Гайана;Джорджтаун
+GT;GTM;320;GT;NA;108,890.0;17,247,807;Guatemala;Guatemala City;Гватемала;Гватемала -Сіті
+GS;SGS;239;SX;AN;3,903.0;30;South Georgia and South Sandwich Islands;Grytviken;Південна Джорджія та Південні Сандвічеві острови;Гритвікен
+GR;GRC;300;GR;EU;131,940.0;10,727,668;Greece;Athens;Греція;Афін
+GL;GRL;304;GL;NA;2,166,086.0;56,025;Greenland;Nuuk;Гренландія;Нуук
+GI;GIB;292;GI;EU;6.5;33,718;Gibraltar;Gibraltar;Гібралтар;Гібралтар
+GF;GUF;254;FG;SA;91,000.0;195,506;French Guiana;Cayenne;Французька Гвіана;Cayenne
+GE;GEO;268;GG;AS;69,700.0;3,731,000;Georgia;Tbilisi;Грузія;Тбілісі
+GB;GBR;826;UK;EU;244,820.0;66,488,991;United Kingdom;London;Об'єднане Королівство;Лондон
+FR;FRA;250;FR;EU;547,030.0;66,987,244;France;Paris;Франція;Париж
+FO;FRO;234;FO;EU;1,399.0;48,497;Faroe Islands;Torshavn;Фарерські острови;Торсгавн
+FK;FLK;238;FK;SA;12,173.0;2,638;Falkland Islands;Stanley;Фолклендські острови;Стенлі
+FI;FIN;246;FI;EU;337,030.0;5,518,050;Finland;Helsinki;Фінляндія;Гельсінкі
+ES;ESP;724;SP;EU;504,782.0;46,723,749;Spain;Madrid;Іспанія;Мадрид
+EG;EGY;818;EG;AF;1,001,450.0;98,423,595;Egypt;Cairo;Єгипет;Каїр
+EE;EST;233;EN;EU;45,226.0;1,320,884;Estonia;Tallinn;Естонія;Таллінн
+EC;ECU;218;EC;SA;283,560.0;17,084,357;Ecuador;Quito;Еквадор;Кіто
+DZ;DZA;012;AG;AF;2,381,740.0;42,228,429;Algeria;Algiers;Алжир;Алжир
+DO;DOM;214;DR;NA;48,730.0;10,627,165;Dominican Republic;Santo Domingo;Домініканська республіка;Санто -Домінго
+DK;DNK;208;DA;EU;43,094.0;5,797,446;Denmark;Copenhagen;Данія;Копенгаген
+DE;DEU;276;GM;EU;357,021.0;82,927,922;Germany;Berlin;Німеччина;Берлін
+CZ;CZE;203;EZ;EU;78,866.0;10,625,695;Czechia;Prague;Чехія;Прага
+CY;CYP;196;CY;EU;9,250.0;1,189,265;Cyprus;Nicosia;Кіпр;Нікосія
+CW;CUW;531;UC;NA;444.0;159,849;Curaçao;Willemstad;Кюрасао;Віллемстад
+CU;CUB;192;CU;NA;110,860.0;11,338,138;Cuba;Havana;Куба;Гавана
+CR;CRI;188;CS;NA;51,100.0;4,999,441;Costa Rica;San Jose;Коста-Ріка;Сан -Хосе
+CO;COL;170;CO;SA;1,138,910.0;49,648,685;Colombia;Bogota;Колумбія;Богота
+CN;CHN;156;CH;AS;9,596,960.0;1,392,730,000;China;Beijing;Китай;Пекін
+CL;CHL;152;CI;SA;756,950.0;18,729,160;Chile;Santiago;Чилі;Сантьяго
+CH;CHE;756;SZ;EU;41,290.0;8,516,543;Switzerland;Bern;Швейцарія;Берн
+CF;CAF;140;CT;AF;622,984.0;4,666,377;Central African Republic;Bangui;Центральноафриканська Республіка;Бангі
+CC;CCK;166;CK;AS;14.0;628;Cocos (Keeling) Islands;West Island;Кокосові (Кілінгські) острови;Західний острів
+CA;CAN;124;CA;NA;9,984,670.0;37,058,856;Canada;Ottawa;Канада;Оттава
+BZ;BLZ;084;BH;NA;22,966.0;383,071;Belize;Belmopan;Беліз;Белмопан
+BY;BLR;112;BO;EU;207,600.0;9,485,386;Belarus;Minsk;Білорусь;Мінськ
+BV;BVT;074;BV;AN;49.0;0;Bouvet Island;;Острів Буве;Острів Буве
+BT;BTN;064;BT;AS;47,000.0;754,394;Bhutan;Thimphu;Бутан;Тхімпху
+BS;BHS;044;BF;NA;13,940.0;385,640;Bahamas;Nassau;Багамські острови;Нассау
+BR;BRA;076;BR;SA;8,511,965.0;209,469,333;Brazil;Brasilia;Бразилія;Бразиліа
+BQ;BES;535;;NA;328.0;18,012;Bonaire, Sint Eustatius, and Saba;;Бонер, Святий Євстатій і Саба;Бонер, Святий Євстатій і Саба
+BO;BOL;068;BL;SA;1,098,580.0;11,353,142;Bolivia;Sucre;Болівія;Сукре
+BN;BRN;096;BX;AS;5,770.0;428,962;Brunei;Bandar Seri Begawan;Бруней;Бандар Сері Бегаван
+BM;BMU;060;BD;NA;53.0;63,968;Bermuda;Hamilton;Бермудські острови;Гамільтон
+BL;BLM;652;TB;NA;21.0;8,450;Saint Barthélemy;Gustavia;Сен -Бартелемі;Густавія
+BH;BHR;048;BA;AS;665.0;1,569,439;Bahrain;Manama;Бахрейн;Манама
+BG;BGR;100;BU;EU;110,910.0;7,000,039;Bulgaria;Sofia;Болгарія;Софія
+BE;BEL;056;BE;EU;30,510.0;11,422,068;Belgium;Brussels;Бельгія;Брюссель
+BD;BGD;050;BG;AS;144,000.0;161,356,039;Bangladesh;Dhaka;Бангладеш;Дакка
+BA;BIH;070;BK;EU;51,129.0;3,323,929;Bosnia and Herzegovina;Sarajevo;Боснія і Герцеговина;Сараєво
+AZ;AZE;031;AJ;AS;86,600.0;9,942,334;Azerbaijan;Baku;Азербайджан;Баку
+AX;ALA;248;;EU;1,580.0;26,711;Åland;Mariehamn;Аланд;Марієхамн
+AW;ABW;533;AA;NA;193.0;105,845;Aruba;Oranjestad;Аруба;Ораньєстад
+AT;AUT;040;AU;EU;83,858.0;8,847,037;Austria;Vienna;Австрія;Відень
+AR;ARG;032;AR;SA;2,766,890.0;44,494,502;Argentina;Buenos Aires;Аргентина;Буенос-Айрес
+AM;ARM;051;AM;AS;29,800.0;2,951,776;Armenia;Yerevan;Вірменія;Єреван
+AL;ALB;008;AL;EU;28,748.0;2,866,376;Albania;Tirana;Албанія;Тирана
+AF;AFG;004;AF;AS;647,500.0;37,172,386;Afghanistan;Kabul;Афганістан;Кабул
+AE;ARE;784;AE;AS;82,880.0;9,630,959;United Arab Emirates;Abu Dhabi;Об'єднані Арабські Емірати;Абу-Дабі
+AD;AND;020;AN;EU;468.0;77,006;Andorra;Andorra la Vella;Андорра;Андорра -ла -Велья
+AD;AND;020;AN;OC;7,692,000;25,36,000;Australia;Canberra;Австралія;Канберра
