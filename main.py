@@ -50,7 +50,7 @@ def ask_question(message):
     question_type = random.choice(["country", "capital"])
 
     if len(user["countries"]) < 1:
-        pass
+        menu1(message)
     else:
         country = random.choice(user["countries"])
 
@@ -90,6 +90,16 @@ def ask_question_wrapper(message):
     else:
         bot.register_next_step_handler(message, ask_question_wrapper)
         bot.delete_message(message.chat.id, message.message_id)
+
+
+def menu1(message):
+    keyboard = telebot.types.ReplyKeyboardMarkup(True)
+    keyboard.row('Начать заного')
+    keyboard.row('Список всех стран')
+    keyboard.row("Информация")
+
+    message = bot.send_message(message.chat.id, 'Меню', reply_markup=keyboard)
+    bot.register_next_step_handler(message, process_menu1)
 
 
 def menu(message):
@@ -138,6 +148,19 @@ def answer_question(message):
         menu(message)
     else:
         bot.register_next_step_handler(message, answer_question)
+        bot.delete_message(message.chat.id, message.message_id)
+
+
+def process_menu1(message):
+    if message.text == "Начать заного":
+        start_quiz(message)
+    elif message.text == "Список всех стран":
+        for part in countries_strings:
+            string = ''.join(x for x in part)
+            message = bot.send_message(message.chat.id, text=string, parse_mode="html")
+        bot.register_next_step_handler(message, process_menu)
+    else:
+        bot.register_next_step_handler(message, process_menu)
         bot.delete_message(message.chat.id, message.message_id)
 
 
