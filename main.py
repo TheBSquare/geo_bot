@@ -127,8 +127,11 @@ def answer_question(message):
             parse_mode="html"
         )
 
-        country_map = open(f"./countries_maps/{country['country_en']}.png", "rb")
-        bot.send_photo(message.chat.id, country_map, reply_to_message_id=message.message_id)
+        try:
+            country_map = open(f"./countries_maps/{country['country_en']}.png", "rb")
+            bot.send_photo(message.chat.id, country_map, reply_to_message_id=message.message_id)
+        except Exception as err:
+            message = bot.send_photo(message.chat.id, "Извини, у меня не получилось найти карту :(")
 
         bot.register_next_step_handler(message, ask_question_wrapper)
     elif message.text == 'Стоп':
