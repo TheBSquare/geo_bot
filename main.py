@@ -1,3 +1,6 @@
+import os
+import sys
+
 import telebot
 import csv
 import random
@@ -7,6 +10,10 @@ users = {}
 
 with open("countries.csv", "r", encoding="utf-8", newline="") as f:
     countries = [x for x in csv.DictReader(f, delimiter=';')]
+
+countries_string = ['№. Город - Столица (континент)\n'] + \
+    [f"<i>{i + 1}</i>. <b>{country['country_uk']}</b> - <b>{country['capital_uk']}</b> (<i>{country['continent']}</i>)\n" for i, country in enumerate(countries)]
+countries_strings = [countries_string[x:x+len(countries_string)//7] for x in range(0, len(countries_string), len(countries_string)//7)]
 
 
 @bot.message_handler(commands=['start'])
@@ -28,8 +35,9 @@ def process_step(message):
     if message.text == "Начать":
         start_quiz(message)
     elif message.text == "Список всех стран":
-        countries_file = open("countries.csv", "rb")
-        message = bot.send_document(message.chat.id, countries_file)
+        for part in countries_strings:
+            string = ''.join(x for x in part)
+            message = bot.send_message(message.chat.id, text=string, parse_mode="html")
         bot.register_next_step_handler(message, process_step)
     else:
         bot.register_next_step_handler(message, process_step)
@@ -136,8 +144,9 @@ def process_menu(message):
     elif message.text == "Продолжить":
         ask_question(message)
     elif message.text == "Список всех стран":
-        countries_file = open("countries.csv", "rb")
-        message = bot.send_document(message.chat.id, countries_file)
+        for part in countries_strings:
+            string = ''.join(x for x in part)
+            message = bot.send_message(message.chat.id, text=string, parse_mode="html")
         bot.register_next_step_handler(message, process_menu)
     else:
         bot.register_next_step_handler(message, process_menu)
